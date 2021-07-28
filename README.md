@@ -1,7 +1,5 @@
 # kubernetes-vote
 
-Ihab ABADI UTOPIOS
-
 
 # TP Docker, Dockerfile, Docker-compose
 
@@ -30,7 +28,7 @@ des extensions indiquées dans le fichier package.json, à l’aide de la comman
 L’application est démarrée au lancement du conteneur à l’aide la commande suivante :
 Node server.js
 Cette partie de l’application utilisera une base de données de type postgres définit dans la 
-partie 5Ihab ABADI UTOPIOS
+partie 5
 ## Partie 3
 Un worker qui synchronise la base de données non relationnelles et la base de données 
 relationnelles
