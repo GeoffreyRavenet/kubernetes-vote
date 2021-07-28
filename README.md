@@ -54,6 +54,6 @@ Le Docker compose pour exécuter la totalité des services.
 Les scripts pour vérifier l’état de santé de chaque service.
 On séparera également les parties en deux sous réseaux du Bridge, réseau Front et Back
 
-
+![Alt text](schema.PNG)
 
 Ihab ABADI UTOPIO
